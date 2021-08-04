@@ -70,6 +70,7 @@ PORT     STATE SERVICE VERSION
 2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
 //Some fingerprints
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel:3.10.14
-
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+
 ```
+
