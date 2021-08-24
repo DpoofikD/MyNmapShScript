@@ -1,4 +1,7 @@
 # MyNmapShScript
+
+[ ![Relwarc17](https://www.hackthebox.eu/badge/image/278078)](https://www.hackthebox.eu/home/users/profile/278078)
+
 This is my Nmap sh script that I use every time.
 
 # Using:
